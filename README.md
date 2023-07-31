@@ -1,4 +1,3 @@
-# Excel-Diff
 # GitHub Project Execution Guide
 
 ## Introduction
